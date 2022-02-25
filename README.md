@@ -41,6 +41,10 @@ request a *monthly subscription* to play without ads!
 At time of writing, solitaire is still a work in progress, which I am actively developing. However, it is live and playable, and contains multiple
 different solitaire games.
 
+### [console-games](https://github.com/EthanRutherford/console-games)
+A fun little walk down memory lane, this site includes a fake console and ports of the various console-based games I wrote during college.
+Also has a few easter eggs.
+
 ## Other projects
 [Click here](https://github.com/EthanRutherford?tab=repositories) to view the full list of repositories on my github page, such as boxjs, a 2D
 physics engine in javascript, or 2d-gl, an attempt at making a 2D focused rendering engine using webgl.
